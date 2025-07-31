@@ -6,7 +6,9 @@ Visual Studio Code
 ## Theory
 ### What are arrays?
 An array is a collection of elements of the same type placed in contiguous memory locations. It allows you to store multiple values under a single name and access them using an index.Arrays are one of the most basic and commonly used data structures in C++ programming.
+
 <img width="517" height="260" alt="image" src="https://github.com/user-attachments/assets/85f8aac5-8302-41b2-a8ff-c360e5d0a7e3" />
+
 <img width="517" height="260" alt="image" src="https://github.com/user-attachments/assets/d5dbac8b-f957-4afe-970c-59e4d9de8e27" />
 
 ### What are strings?
