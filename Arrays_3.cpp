@@ -31,6 +31,8 @@ int main(){
 /* OUTPUT 
 Enter array element to be searched: 50
 Element found in array
+Position of element is: 5
+
 
 Enter array element to be searched: 12
 Element not found in array
