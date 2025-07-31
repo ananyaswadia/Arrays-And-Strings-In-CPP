@@ -19,11 +19,58 @@ In C++, strings are sequences of characters that are used to store words and tex
 ## Algorithm
 
 ### Element Search In Arrays
+1. Start
+
+2. Define an integer array of size 5 with fixed values.
+
+3. Ask user to input a number to search.
+
+4. Loop through the array:
+
+5. If element matches, print "Element found" and its position.
+
+6. Set found = true and exit loop.
+
+7. If found is still false, print "Element not found".
+
+8. End
 
 ### Finding Max & Min Element In Arrays
+1. Start
 
+2. Ask user for array size n.
+
+3. Declare array of size n.
+
+4. Input n elements starting from index 1 (not ideal, but matches code).
+
+5. Display all array elements.
+
+6. Loop to find maximum element by comparing and updating arr[0].
+
+7. Print maximum element.
+
+8. Loop again to find minimum using the same method on arr[0].
+
+9. Print minimum element.
+
+10. End
+ 
 ### Reversing A String
+1. Start
 
+2. Initialize a string variable with "Good Morning".
+
+3. Set count = 0.
+
+4. Traverse the string until null character ('\0') to count its length.
+
+5. Print the count.
+
+6. Loop from count down to 0 and print each character to reverse the string.
+
+7. End
+   
 ### Checking String For Palindrome
 
 ## Conclusion
