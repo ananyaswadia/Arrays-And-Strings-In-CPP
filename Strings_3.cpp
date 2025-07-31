@@ -23,5 +23,5 @@ int main() {
 
 /*  OUTPUT 
 The length of the string is: 12
-Reversed String:
+Reversed String:gninroM dooG
 */
