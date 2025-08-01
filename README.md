@@ -72,6 +72,23 @@ In C++, strings are sequences of characters that are used to store words and tex
 7. End
    
 ### Checking String For Palindrome
+1. Start
+
+2. Input a string from the user and store it in a variable str.
+
+3. Get the length of the string using str.length() and store it in len.
+
+4. Initialize a boolean flag isPalindrome as true.
+
+5. Use a for loop from i = 0 to i < len / 2: . In each iteration, compare str[i] with str[len - 1 - i]
+
+6. If the characters are not equal it will set isPalindrome = false and break the loop
+
+7. After the loop if isPalindrome is true, output: "The string is a palindrome."
+
+8. Else, output: "The string is not a palindrome."
+
+9. End
 
 ## Conclusion
 We learnt to do different operations on strings and arrays like reversing, finding length,searching element , etc.
